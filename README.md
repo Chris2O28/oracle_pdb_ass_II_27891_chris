@@ -248,7 +248,7 @@ oracle_pdb_ass_II_27891_chris/
 
 ## Submission Information
 
-**Repository Link:** https://github.com/[your-username]/oracle_pdb_ass_II_27891_chris  
+**Repository Link:** https://github.com/Chris2028/oracle_pdb_ass_II_27891_chris  
 **PDB Name Created:** Ch_pdb_27891  
 **Issues Encountered:** Yes (Port conflicts and TNS connection issues - resolved)  
 **Submission Date:** February 15, 2026  
